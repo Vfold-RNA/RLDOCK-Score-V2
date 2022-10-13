@@ -33,6 +33,7 @@ python test.py
 ## Download data sets
 The training set, pose prediction set, HIV-1 TAR/PreQ1 RS ensemble and compound library can be downloaded through the following commands:
 ```
+mkdir -p /home/${USER}/RLDOCK-Score-V2/data/
 wget https://github.com/Vfold-RNA/RLDOCK-Score-V2/releases/download/dataset/checksum.txt -O /home/${USER}/RLDOCK-Score-V2/data/checksum.txt
 wget https://github.com/Vfold-RNA/RLDOCK-Score-V2/releases/download/dataset/training-set.tar.gz -O /home/${USER}/RLDOCK-Score-V2/data/training-set.tar.gz
 wget https://github.com/Vfold-RNA/RLDOCK-Score-V2/releases/download/dataset/pose-prediciton-set.tar.gz -O /home/${USER}/RLDOCK-Score-V2/data/pose-prediciton-set.tar.gz
