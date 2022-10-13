@@ -26,7 +26,7 @@ The executable *rldock_score_v2* can be found in folder **/home/${USER}/RLDOCK-S
 ### 3. Running the test
 Use the following commands to test the newly compiled RLDOCK-Score-V2:
 ```
-cd /home/${USER}/RLDOCK-Score-V2/test
+cd /home/${USER}/RLDOCK-Score-V2/test/2CKY-A-1084-TPP
 python test.py
 ```
 
