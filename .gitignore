@@ -1,0 +1,11 @@
+dev/
+data/
+bin/rldock_score_v2
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile.sh
+
+test/2CKY-A-1084-TPP/2CKY_A-1084-TPP_binding_mode_score.txt
+test/2CKY-A-1084-TPP/2CKY_A-1084-TPP_virtual_screen_score.txt
