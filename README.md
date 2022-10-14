@@ -7,6 +7,9 @@ The following are tested system settings, other hardware/software could also wor
 * Python 3.8.8
 * CMake 3.16.3
 * GNU Make 4.2.1
+For running the *RLDOCK-Score-V2/bin/openeye_get_info.py*
+* OpenEye Toolkit 2021.2
+* NumPy 1.20.3
 
 ## Compile and test RLDOCK-Score-V2
 
