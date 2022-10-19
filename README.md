@@ -43,6 +43,7 @@ wget https://github.com/Vfold-RNA/RLDOCK-Score-V2/releases/download/dataset/trai
 wget https://github.com/Vfold-RNA/RLDOCK-Score-V2/releases/download/dataset/pose-prediciton-set.tar.gz -O /home/${USER}/RLDOCK-Score-V2/data/pose-prediciton-set.tar.gz
 wget https://github.com/Vfold-RNA/RLDOCK-Score-V2/releases/download/dataset/HIV-1-TAR.tar.gz -O /home/${USER}/RLDOCK-Score-V2/data/HIV-1-TAR.tar.gz
 wget https://github.com/Vfold-RNA/RLDOCK-Score-V2/releases/download/dataset/PreQ1-RS.tar.gz -O /home/${USER}/RLDOCK-Score-V2/data/PreQ1-RS.tar.gz
+wget https://github.com/Vfold-RNA/RLDOCK-Score-V2/releases/download/dataset/rldock-score-v2-predicted-scores.tar.gz -O /home/${USER}/RLDOCK-Score-V2/data/rldock-score-v2-predicted-scores.tar.gz
 ```
 Check the integrity of the files:
 ```
